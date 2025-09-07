@@ -1,7 +1,7 @@
 # Cinema-Vibe
 AI Powered Movie Recommendation System
 
-Follow the following steps before oopening the project:
+Follow the following steps before opening the project:
 1. Download all Files
 2. Extract all Files
 3. Create a New Folder named "web1"
